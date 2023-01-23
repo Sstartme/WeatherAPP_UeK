@@ -1,0 +1,17 @@
+commit 86182d0fa304c87413db577741910230b0de7640
+Author: Sinthella Anpalagan <sinthella1@gmail.com>
+Date:   Sat Jan 21 20:09:48 2023 +0100
+
+    prepeard the AndroidManifest.xml file
+
+commit abe8b96983a843424bcf3733b5decca0424c0729
+Author: Sinthella Anpalagan <sinthella1@gmail.com>
+Date:   Sat Jan 21 19:55:47 2023 +0100
+
+    added needed user permission
+
+commit 33122b63ffb24f3a5370e87f9d6ac71224de1b52
+Author: Sinthella Anpalagan <sinthella1@gmail.com>
+Date:   Sat Jan 21 19:53:45 2023 +0100
+
+    Add existing project files to Git
